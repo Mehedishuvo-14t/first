@@ -1,0 +1,112 @@
+.d{
+    height: 30px;
+    width: 40vw;
+ 
+    right:0px;
+ 
+    transform:translate(60vw);
+  
+    
+
+    
+   
+}
+body{
+    margin:0px;
+}
+.c{
+    background-color: aquamarine;
+ height: 100vh;
+ width: 100vw;
+
+
+   
+
+  
+  
+}
+.s1{
+    height: 30px;
+    width: 10vw;
+    background:red;
+    float:left;
+    text-align:center;
+    
+    
+    
+    line-height: 30px;
+    border:2px solid black;
+    padding:10px;
+    padding:0 10px;
+    box-sizing: border-box;
+    
+   
+
+   
+}
+.s2{
+    height: 30px;
+    width: 10vw;
+    background:rgb(29, 223, 58);
+    float:left;
+    text-align:center;
+    
+   
+    
+    line-height: 30px;
+  border-radius: 50px;
+  border:2px solid black;
+  padding:10px;
+  padding:0 10px;
+  box-sizing: border-box;
+
+
+}
+.s3{
+    height: 30px;
+    width: 10vw;
+    background:rgb(8, 238, 58);
+    float:left;
+    text-align:center;
+  
+    
+    
+    line-height: 30px;
+    border:2px solid black;
+    padding:10px;
+    padding:0 10px;
+    box-sizing: border-box;
+    
+
+}
+.s4{
+    height: 30px;
+    width: 10vw;
+    background:rgb(87, 231, 14);
+    float:left;
+    text-align:center;
+    
+   
+    
+    line-height: 30px;
+    border-radius: 50px;
+    border:2px solid black;
+    padding:0 10px;
+    box-sizing: border-box;
+
+
+}
+a{
+    text-decoration: none;
+    font-family:sans-serif;
+   
+ 
+}
+a:hover{
+    background-color: chocolate;
+}
+a:active{
+    background-color: rgb(119, 0, 255);
+}
+
+
